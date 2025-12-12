@@ -448,7 +448,11 @@ class LibraryDeskApp:
     def _open_crud_dialog(self, is_create=True, media_data=None):
         """Generalized dialog for both Create and Edit."""
         dialog = tk.Toplevel(self.master)
-        dialog.title(f"{'➕ Create New' if is_create else f'✏️ Edit Media ID: {media_data.get('id', 'N/A')}'}")
+        if is_create:
+            title_text = '➕ Create New'
+        else:
+            title_text = f"✏️ Edit Media ID: {media_data.get('id', 'N/A')}"
+        dialog.title(title_text)
         dialog.transient(self.master)
         dialog.grab_set() 
         dialog.focus_set()

@@ -1,0 +1,6 @@
+# Ignore all temporary Python files
+__pycache__/
+*.pyc
+
+# Ignore the specific large file mentioned in the error
+App demo video.mp4

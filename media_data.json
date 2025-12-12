@@ -1,0 +1,59 @@
+{
+    "media": {
+        "3": {
+            "name": "Mahabharatham",
+            "publication_date": "1600-01-29",
+            "author": "Vedhavyasi",
+            "category": "Book"
+        },
+        "4": {
+            "name": "Ramayanam",
+            "publication_date": "2000-03-04",
+            "author": "VasistaMarshi",
+            "category": "Book"
+        },
+        "5": {
+            "name": "Pushpa",
+            "publication_date": "2022-08-12",
+            "author": "Allu Arjun",
+            "category": "Film"
+        },
+        "6": {
+            "name": "RRR",
+            "publication_date": "2022-03-14",
+            "author": "Rajamouli",
+            "category": "Film"
+        },
+        "7": {
+            "name": "Forbes",
+            "publication_date": "2021-05-14",
+            "author": "OM",
+            "category": "Magazine"
+        },
+        "8": {
+            "name": "Sunday Star",
+            "publication_date": "2018-10-17",
+            "author": "Swathi Naidu",
+            "category": "Magazine"
+        },
+        "9": {
+            "name": "Ala Vaikuntapuram lo",
+            "publication_date": "2022-09-14",
+            "author": "Trivikram",
+            "category": "Magazine"
+        },
+        "10": {
+            "name": "Money is Important",
+            "publication_date": "2017-03-04",
+            "author": "Mark polio",
+            "category": "Book"
+        },
+        "11": {
+            "name": "Thammudu",
+            "publication_date": "1998-02-02",
+            "author": "Pawan Kalyan",
+            "category": "Film"
+        }
+    },
+    "favorites": []
+}
